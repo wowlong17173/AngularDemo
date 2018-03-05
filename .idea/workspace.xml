@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f33260d-fc20-438a-bed8-cb86f13e82f8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Demo/src/app/app.component.html" afterPath="$PROJECT_DIR$/Demo/src/app/app.component.html" />
-      <change beforePath="$PROJECT_DIR$/Demo/src/app/footer/footer.component.html" afterPath="$PROJECT_DIR$/Demo/src/app/footer/footer.component.html" />
-      <change beforePath="$PROJECT_DIR$/Demo/src/app/navbar/navbar.component.html" afterPath="$PROJECT_DIR$/Demo/src/app/navbar/navbar.component.html" />
-      <change beforePath="$PROJECT_DIR$/Demo/src/styles.css" afterPath="$PROJECT_DIR$/Demo/src/styles.css" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/app/carousel/carousel.component.css" afterPath="$PROJECT_DIR$/Demo/src/app/carousel/carousel.component.css" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/app/carousel/carousel.component.html" afterPath="$PROJECT_DIR$/Demo/src/app/carousel/carousel.component.html" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/app/search/search.component.html" afterPath="$PROJECT_DIR$/Demo/src/app/search/search.component.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,31 +18,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="navbar.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/src/app/navbar/navbar.component.html">
+      <file leaf-file-name="search.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo/src/app/search/search.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            <state relative-caret-position="210">
+              <caret line="14" column="71" lean-forward="true" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/src/styles.css">
+      <file leaf-file-name="carousel.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Demo/src/app/carousel/carousel.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="315">
+              <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Demo/src/app/footer/footer.component.html">
+      <file leaf-file-name="carousel.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo/src/app/carousel/carousel.component.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="15">
+              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -62,6 +61,9 @@
         <option value="$PROJECT_DIR$/Demo/src/app/navbar/navbar.component.html" />
         <option value="$PROJECT_DIR$/Demo/src/styles.css" />
         <option value="$PROJECT_DIR$/Demo/src/app/footer/footer.component.html" />
+        <option value="$PROJECT_DIR$/Demo/src/app/search/search.component.html" />
+        <option value="$PROJECT_DIR$/Demo/src/app/carousel/carousel.component.css" />
+        <option value="$PROJECT_DIR$/Demo/src/app/carousel/carousel.component.html" />
       </list>
     </option>
   </component>
@@ -126,6 +128,14 @@
               <item name="Demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="carousel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AngularDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="footer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -135,6 +145,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="navbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AngularDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,12 +193,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520269464410</updated>
-      <workItem from="1520269466028" duration="3317000" />
+      <workItem from="1520269466028" duration="4919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3317000" />
+    <option name="totallyTimeSpent" value="4919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1676" height="1027" extended-state="0" />
@@ -251,10 +269,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/app/navbar/navbar.component.html">
+    <entry file="file://$PROJECT_DIR$/Demo/src/app/footer/footer.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -267,10 +285,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/app/footer/footer.component.html">
+    <entry file="file://$PROJECT_DIR$/Demo/src/app/navbar/navbar.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="60">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/src/app/search/search.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="71" lean-forward="true" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/src/app/carousel/carousel.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/src/app/carousel/carousel.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
           <folding />
         </state>
       </provider>
